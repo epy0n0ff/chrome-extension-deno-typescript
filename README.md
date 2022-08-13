@@ -2,6 +2,9 @@
 
 deno + TypeScript Chrome Extension example
 
+## requirements
+- deno 1.24.2
+
 ## build
 
 ```
