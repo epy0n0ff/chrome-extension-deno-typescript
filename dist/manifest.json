@@ -1,0 +1,17 @@
+{
+	"name": "deno-typescript-example",
+	"description": "example",
+	"version": "1.0",
+	"manifest_version": 3,
+	"host_permissions": [
+		"https://httpbin.org/",
+		"http://httpbin.org/"
+	],
+	"permissions": [
+		"cookies"
+	],
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": "icon.png"
+	}
+}

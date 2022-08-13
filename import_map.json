@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "emit/": "https://deno.land/x/emit@0.5.0/",
+    "esbuild/": "https://deno.land/x/esbuild@v0.14.53/"
+  }
+}
